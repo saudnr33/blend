@@ -2,7 +2,6 @@ import numpy as np
 import cv2
 import os 
 import random
-import glob
 from moviepy.editor import VideoFileClip, AudioFileClip, concatenate_audioclips
 
 
