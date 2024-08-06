@@ -1,4 +1,6 @@
-# blend
+# Blend
+
+From a list of images create a simple video:
 
 ```python 
 blend(vid_path = "out.mp4",
